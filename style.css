@@ -1,0 +1,54 @@
+.title{
+font-size: larger;
+font-weight: bolder;
+text-align: center;
+margin: initial;
+padding: auto;
+color: black;
+
+}
+
+.contain{
+text-align: center;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size:1.4rem;
+background-image: url("BBA.jpg");
+height: 50px;
+width: 100%;
+padding:20px 20px 20px 20px;
+margin: 1px 1px 1px 1px;
+background-size: cover;
+height: auto;
+width: auto;
+border: 1px solid black;
+border-radius: 3rem;
+color:ivory;
+@media(min-width:319px)and(max-width:480px){}
+@media(min-width: 481px)and(max-width1200px){}
+@media(min-width: 1201)and(max-width:1600px){}
+@media print{
+  page-orientation: landscape;
+}
+}
+
+
+.email{
+    
+    font-style: italic;
+    height: 20px;
+    width: 100%;
+    font-size: 70px;
+    
+   
+}
+.username{
+    height: 20px;
+    width: 100%;
+}
+.password{
+    height: 20px;
+    width: 100%;
+    
+}
+
+   
